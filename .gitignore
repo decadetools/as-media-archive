@@ -1,1 +1,4 @@
 .DS_Store
+
+# ZIP files - upload via GitHub Releases, don't commit to git
+*.zip
